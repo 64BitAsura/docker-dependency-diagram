@@ -24,10 +24,10 @@
   },
   "homepage": "https://github.com/rama41222/nodes-docker-medium#readme",
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.1",
     "cors": "^2.8.5",
     "superagent": "5.1.0",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "avsc": "5.3.1",
     "kafka-node": "2.6.1",
     "moment": "2.22.2",
